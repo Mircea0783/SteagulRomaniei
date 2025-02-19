@@ -1,2 +1,2 @@
 # SteagulRomaniei
-Steagul Romaniei cu imnul in fformat OGG and positioning elements
+Steagul Romaniei cu imnul in format OGG and positioning elements. 
